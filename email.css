@@ -1,0 +1,18 @@
+.input-group{
+    width: 90%;
+    padding: 5px;
+    margin-bottom: 10px;
+   
+}
+.check{
+    color: #47cee6;
+    position: relative;
+    
+}
+.left{
+     margin-top: 20px;
+   font-size: 35px;
+}
+.text{
+    margin-top: 100px;
+}
